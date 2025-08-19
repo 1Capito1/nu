@@ -22,4 +22,4 @@ $env.config.show_banner = false
 
 $env.PATH ++= ["~/.local/bin/"]
 
-oh-my-posh init nu --config "https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/kushal.omp.json"
+oh-my-posh init nu --config "https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/stelbent.minimal.omp.json"
